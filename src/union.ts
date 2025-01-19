@@ -1,9 +1,9 @@
-import { admin, member, organization } from '@/functions/github';
+import { admin, member, organization } from "@/functions/github";
 
-organization('kmutt-cpe-student');
+organization("kmutt-cpe-student");
 
-admin('ChaiyapatOam');
-admin('jate-koh')
+admin("ChaiyapatOam");
+admin("jate-koh");
 
 member('riflowth');
 member('SorrawitUdom')
@@ -66,4 +66,5 @@ member('atiwit')
 member('MiikyMan')
 member('sirawitGOGO')
 member('SupeemAFK')
+member('N0TAW00D')
 member('gxjakkap')
